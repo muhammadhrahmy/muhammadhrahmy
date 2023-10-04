@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammadh Rahmy</h1>
-<h3 align="center">🌟 Currently, I have experience in Python, Java, and GUI development in Java. I've been working on various projects to hone my skills and solve real-world problems. 💡</h3>
+<h3 align="center">🌟 Currently, I have experience in Python, Java, and GUI development in Java. I've been working on various projects to hone my skills and solve real-world problems. 💡
+📚 I'm a firm believer in the power of continuous learning, and I'm always eager to expand my knowledge. My goal is to not only write code but to craft elegant and efficient solutions to complex problems. 🤓</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
